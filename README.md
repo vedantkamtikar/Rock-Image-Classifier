@@ -28,23 +28,3 @@ Dataset/
 ├── Marble/
 ├── Quartzite/
 └── Sandstone/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
